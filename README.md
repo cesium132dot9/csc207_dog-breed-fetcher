@@ -82,11 +82,11 @@ Note: The example in the documentation doesn't show it, but if you specify a bre
 
 ### Task 2:
 
-- [x] Complete the `CachingBreedFetcher` class.
+- [x] Do not complete the `CachingBreedFetcher` class
 
 ### Task 3:
 
-- [ ] Complete the `Main` class.
+- [x] Complete the `Main` class.
 
 ### Task 4:
 
