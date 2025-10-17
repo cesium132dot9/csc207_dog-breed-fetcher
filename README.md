@@ -82,7 +82,7 @@ Note: The example in the documentation doesn't show it, but if you specify a bre
 
 ### Task 2:
 
-- [x] Do not complete the `CachingBreedFetcher` class
+- [x] This is task 4 conflict. Let the sparks fly. 
 
 ### Task 3:
 
